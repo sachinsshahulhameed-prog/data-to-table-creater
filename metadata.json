@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic Data Collector",
+  "description": "An application to dynamically define form fields, collect data, display it in a table, and export it as a CSV file.",
+  "requestFramePermissions": []
+}
